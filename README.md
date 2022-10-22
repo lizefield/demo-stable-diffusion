@@ -2,6 +2,8 @@
 
 ## setup
 
+- Visual Studio Code with Jupyter extension
+
 ### python venv
 
 ```
