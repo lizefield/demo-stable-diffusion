@@ -29,6 +29,8 @@ pip3 install --pre torch torchvision --extra-index-url https://download.pytorch.
 
 create `.env`
 
+https://huggingface.co/CompVis/stable-diffusion-v1-4
+
 ```
 USER_ACCESS_TOKEN=<your user access token on hugging face>
 ```
